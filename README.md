@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahulmahendru
 - 👀 I’m interested in systems programming and data science. 
 - 🌱 I’m currently learning Research techniques and Data Science.
-- 💞️ I’m looking to collaborate on projects in these two sphere.
-- 📫 How to reach me - ramahend@ucsc.edu
+- 💞️ I’m looking to collaborate on projects in these two spheres
+- 📫 How to reach me - u7213186@anu.edu.au
 
 <!---
 rahulmahendru/rahulmahendru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
